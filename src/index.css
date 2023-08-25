@@ -11,3 +11,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.modal-right {
+  transform: translateX(calc(50vw + 160px)); /* Adjust 160px to your desired modal width */
+}
